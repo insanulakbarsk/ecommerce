@@ -1,0 +1,6 @@
+2020-09-08T02:57:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded di C:\xampp\htdocs\ecommerce\wp-content\plugins\wpforms-lite\includes\fields\class-select.php pada baris 8
+
+2020-09-08T05:28:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded di C:\xampp\htdocs\ecommerce\wp-content\plugins\cartflows\classes\class-cartflows-meta-fields.php pada baris 11
+
+2020-09-08T05:31:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded di C:\xampp\htdocs\ecommerce\wp-admin\includes\image.php pada baris 25
+

@@ -1,0 +1,4 @@
+2020-09-14T23:20:40+00:00 CRITICAL Maximum execution time of 30 seconds exceeded di C:\xampp\htdocs\ecommerce\wp-content\themes\astra\inc\core\common-functions.php pada baris 50
+
+2020-09-14T23:21:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded di C:\xampp\htdocs\ecommerce\wp-includes\wp-db.php pada baris 2033
+
