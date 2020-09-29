@@ -1,0 +1,4 @@
+2020-09-27T07:41:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded di C:\xampp\htdocs\ecommerce\wp-content\plugins\midtrans-woocommerce\lib\midtrans\Midtrans.php pada baris 5
+
+2020-09-27T11:13:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded di C:\xampp\htdocs\ecommerce\wp-content\plugins\cartflows\modules\checkout\class-cartflows-checkout.php pada baris 8
+

@@ -1,0 +1,6 @@
+2020-09-23T01:08:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded di C:\xampp\htdocs\ecommerce\wp-admin\includes\class-wp-privacy-policy-content.php pada baris 10
+
+2020-09-23T06:41:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded di C:\xampp\htdocs\ecommerce\wp-content\plugins\woocommerce\includes\class-wc-order-refund.php pada baris 15
+
+2020-09-23T12:33:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded di C:\xampp\htdocs\ecommerce\wp-content\plugins\elementor\includes\template-library\sources\base.php pada baris 8
+

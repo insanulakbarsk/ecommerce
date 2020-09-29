@@ -1,0 +1,12 @@
+2020-09-28T01:30:03+00:00 CRITICAL Maximum execution time of 30 seconds exceeded di C:\xampp\htdocs\ecommerce\wp-content\plugins\wpforms-lite\lite\wpforms-lite.php pada baris 8
+
+2020-09-28T03:26:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded di C:\xampp\htdocs\ecommerce\wp-content\plugins\woocommerce\packages\action-scheduler\classes\abstracts\ActionScheduler_Abstract_Schedule.php pada baris 6
+
+2020-09-28T03:26:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded di C:\xampp\htdocs\ecommerce\wp-includes\wp-db.php pada baris 2033
+
+2020-09-28T05:13:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded di C:\xampp\htdocs\ecommerce\wp-content\plugins\wpforms-lite\src\Admin\Pages\Community.php pada baris 10
+
+2020-09-28T06:24:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded di C:\xampp\htdocs\ecommerce\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Schedulers\ImportInterface.php pada baris 8
+
+2020-09-28T06:24:03+00:00 CRITICAL Maximum execution time of 30 seconds exceeded di C:\xampp\htdocs\ecommerce\wp-content\plugins\cartflows\classes\class-cartflows-admin.php pada baris 11
+

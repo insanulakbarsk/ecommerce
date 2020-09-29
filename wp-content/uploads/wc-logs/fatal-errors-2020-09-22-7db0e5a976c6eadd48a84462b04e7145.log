@@ -1,0 +1,12 @@
+2020-09-22T01:15:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded di C:\xampp\htdocs\ecommerce\wp-content\plugins\astra-sites\admin\bsf-analytics\class-bsf-analytics-loader.php pada baris 94
+
+2020-09-22T02:16:01+00:00 CRITICAL Maximum execution time of 30 seconds exceeded di C:\xampp\htdocs\ecommerce\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_AsyncRequest_QueueRunner.php pada baris 11
+
+2020-09-22T03:39:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded di C:\xampp\htdocs\ecommerce\wp-content\plugins\woocommerce\includes\tracks\class-wc-tracks-client.php pada baris 15
+
+2020-09-22T03:39:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded di C:\xampp\htdocs\ecommerce\wp-includes\Requests\Transport\cURL.php pada baris 441
+
+2020-09-22T05:16:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded di C:\xampp\htdocs\ecommerce\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductsByAttribute.php pada baris 10
+
+2020-09-22T06:34:56+00:00 CRITICAL Maximum execution time of 30 seconds exceeded di C:\xampp\htdocs\ecommerce\wp-content\plugins\elementor\includes\frontend.php pada baris 14
+

@@ -1,0 +1,6 @@
+2020-09-29T03:46:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded di C:\xampp\htdocs\ecommerce\wp-content\themes\astra\inc\core\class-gutenberg-editor-css.php pada baris 14
+
+2020-09-29T04:38:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded di C:\xampp\htdocs\ecommerce\wp-includes\Requests\Transport\cURL.php pada baris 441
+
+2020-09-29T06:54:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded di C:\xampp\htdocs\ecommerce\wp-content\plugins\cartflows\modules\flow\classes\class-cartflows-flow-shortcodes.php pada baris 13
+

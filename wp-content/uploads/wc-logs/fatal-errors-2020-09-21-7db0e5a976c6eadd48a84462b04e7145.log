@@ -1,0 +1,4 @@
+2020-09-21T11:10:58+00:00 CRITICAL Maximum execution time of 30 seconds exceeded di C:\xampp\htdocs\ecommerce\wp-includes\wp-db.php pada baris 2033
+
+2020-09-21T11:11:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded di C:\xampp\htdocs\ecommerce\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\WC_Admin_Notes_WooCommerce_Subscriptions.php pada baris 10
+
